@@ -50,5 +50,5 @@ Day 1 was all about getting started and building the foundation. The print funct
 
 ---
 
-**Time Spent**: ~1 hour  
+
 **Status**: ✅ Completed
