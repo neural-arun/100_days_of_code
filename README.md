@@ -17,17 +17,17 @@ This repository documents my progress through the 100 Days of Code challenge, wh
 
 ```
 100_days_of_code/
-├── 00_notes/          # General notes and observations
+├── 00_notes/          # General notes and observations (it is awesome)
 ├── 01_day_01/         # Day 1 exercises and code
 ├── 02_day_02/         # Day 2 exercises and code
-├── ...
-└── 11_day_11/         # Day 11 exercises and code (current)
+├── ...                # Day 100 excercise and code
 ```
+
 
 ## Tech Stack
 
-- **Primary Language**: Python (87.0%)
-- **Web Technologies**: HTML (13.0%)
+- **Primary Language**: Python 
+- **Other Areas related to programming**: API, Web development, GUI , Introduction to Data Science etc
 - **Focus Areas**: Programming fundamentals, problem-solving, project development
 
 ## Getting Started
@@ -39,8 +39,6 @@ This repository documents my progress through the 100 Days of Code challenge, wh
 ## Progress Tracking
 
 - **Start Date**: September 2, 2025
-- **Current Day**: Day 11
-- **Days Completed**: 11/100
 - **Consistency**: Ongoing
 
 ## Rules I'm Following
@@ -57,4 +55,4 @@ Feel free to follow along with my journey or reach out if you have any questions
 
 ---
 
-*Last updated: September 21, 2025*
+*Last updated: Yesterday*
