@@ -1,0 +1,31 @@
+# requirements.txt
+
+# --- Web Development (Flask) ---
+Flask
+Flask-Bootstrap
+Flask-CKEditor
+Flask-Login
+Flask-SQLAlchemy
+Flask-WTF
+gunicorn
+WTForms
+
+# --- Data Science & Machine Learning ---
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+
+# --- Web Scraping & Automation ---
+beautifulsoup4
+requests
+selenium
+
+# --- API Interaction & Utilities ---
+Pillow
+colorgram.py
+pyperclip
+spotipy
+twilio
